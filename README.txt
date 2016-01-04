@@ -1,0 +1,1 @@
+This application reads in precipitation levels from a CSV file and computes and generates output for further use.
